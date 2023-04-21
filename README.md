@@ -22,7 +22,6 @@ I am 22 years old who loves everything about Full-Stack development. I'm consist
     <img height='50em' src='https://cdn.worldvectorlogo.com/logos/css-3.svg'>
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
-    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
   </p>
  
  
