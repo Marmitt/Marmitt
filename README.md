@@ -1,11 +1,10 @@
 ### Welcome to my profile!
 
-I am 22 years old who loves everything about Full-Stack development. Throughout my career as a manager, I've always had a fascination for technology and its ability to transform industries. That's why I decided to pursue my passion for web development by starting some certificates and projects in HTML, CSS, JavaScript, React... 
-
-I'm consistently learning new languages, libraries and frameworks and stay up-to-date on changes in the industry.
+I am 22 years old who loves everything about Full-Stack development. I'm consistently learning new languages, libraries and frameworks and stay up-to-date on changes in the industry.
 
 - 🖥️ I’m currently working on my Portfolio 
 - 🧠 I’m currently learning more about Javascript and React
+- 📚 I'm currently doing an Advanced Diploma in IT in Australia
 - ✉ You can reach me via lmateus.marmitt@gmail.com
   
   
