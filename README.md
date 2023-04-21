@@ -1,4 +1,4 @@
-### **Welcome to my profile!**
+### Welcome to my profile!
 
 I am 22 years old who loves everything about Full-Stack development. Throughout my career as a manager, I've always had a fascination for technology and its ability to transform industries. That's why I decided to pursue my passion for web development by starting some certificates and projects in HTML, CSS, JavaScript, React... 
 
