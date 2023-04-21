@@ -1,4 +1,4 @@
-### Welcome to my profile!
+### <bold>Welcome to my profile!</bold>
 
 I am 22 years old who loves everything about Full-Stack development. Throughout my career as a manager, I've always had a fascination for technology and its ability to transform industries. That's why I decided to pursue my passion for web development by starting some certificates and projects in HTML, CSS, JavaScript, React... 
 
@@ -29,9 +29,9 @@ I'm consistently learning new languages, libraries and frameworks and stay up-to
  
 ### 📱 Socials
   
-<p align="left"> 
+<p align="left">
+    <a href="https://www.linkedin.com/in/mateusmarmitt" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/> </a>
     <a href="https://github.com/Marmitt" target="_blank"> <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/> </a>
-    <a href="https://www.linkedin.com/in/mateusmarmitt" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/linkedin.png" /></a>
 </p>
 
 
