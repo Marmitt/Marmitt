@@ -22,6 +22,7 @@ I am 22 years old IT Technician who is passionate for everything about Full-Stac
     <img height='50em' src='https://cdn.worldvectorlogo.com/logos/css-3.svg'>
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
+    <img height='50em' src="https://img.icons8.com/python">
   </p>
  
  
