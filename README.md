@@ -1,6 +1,6 @@
 ### Welcome to my profile!
 
-I am 22 years old IT Technician who is passionate for everything about Full-Stack development. I'm constantly learning new languages, libraries and frameworks and stay up-to-date on changes in the industry.
+I am 23 years old IT Technician who is passionate for everything about Full-Stack development. I'm constantly learning new languages, libraries and frameworks and stay up-to-date on changes in the industry.
 
 - 🖥️ I’m currently working on my Portfolio 
 - 🧠 I’m currently learning more about Javascript and React
