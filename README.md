@@ -1,9 +1,9 @@
 ### Welcome to my profile!
 
-I am 23 years old IT Technician who is passionate for everything about Full-Stack development. I'm constantly learning new languages, libraries and frameworks and stay up-to-date on changes in the industry.
+I am 23 years old IT Technician who is passionate for everything about Software development. I'm constantly learning new languages, libraries and frameworks and stay up-to-date on changes in the industry.
 
 - 🖥️ I’m currently working on my Portfolio 
-- 🧠 I’m currently learning more about Javascript and React
+- 🧠 I’m currently learning more about Python
 - 📚 I'm currently doing an Advanced Diploma in IT in Australia
 - ✉ You can reach me via lmateus.marmitt@gmail.com
   
