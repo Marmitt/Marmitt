@@ -18,11 +18,14 @@ I am 24 years old Software Develepor who is passionate for everything about prog
 ### 🧰 Toolbox
   
   <p align="left">
+    <img height='50em' src="https://abrudz.github.io/logos/Python.svg">
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
     <img height='50em' src='https://cdn.worldvectorlogo.com/logos/css-3.svg'>
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
-    <img height='50em' src="https://abrudz.github.io/logos/Python.svg">
+    <img height='50em' src="https://abrudz.github.io/logos/TypeScript.svg">
+    <img height='50em' src="https://abrudz.github.io/logos/CPlusPlus.svg">
+    <img height='50em' src="https://abrudz.github.io/logos/CSharp.svg">
   </p>
  
  
