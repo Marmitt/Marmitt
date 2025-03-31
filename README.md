@@ -4,7 +4,7 @@ I am 24 years old Software Develepor who is passionate for everything about prog
 
 - 🖥️ I’m currently working on my Portfolio 
 - 🧠 I’m currently learning more about Python
-- 📚 I just finished an Advanced Diploma in IT in Australia
+- 📚 I have just finished an Advanced Diploma in IT in Australia
 - ✉ You can reach me via lmateus.marmitt@gmail.com
   
   
